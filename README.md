@@ -1,7 +1,5 @@
 # Hi there, I'm Kamal! 👋
 
-![Profile views](https://gpvc.arturio.dev/kamal126)
-
 ## About Me
 
 I'm a passionate software developer with a love for creating efficient and scalable solutions. I enjoy working with a variety of technologies and am always eager to learn new things.
