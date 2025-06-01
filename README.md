@@ -8,7 +8,7 @@ I'm a passionate software developer with a love for creating efficient and scala
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking for help with cloud computing.
 - 💬 Ask me about Python, JavaScript, and web development.
-- 📫 How to reach me: [kamal126@example.com](mailto:kamalchandra265@gmail.com)
+- 📫 How to reach me: [Email](mailto:kamalchandra265@gmail.com)
 - ⚡ Fun fact: I love hiking and exploring new places.
 
 ## GitHub Stats
